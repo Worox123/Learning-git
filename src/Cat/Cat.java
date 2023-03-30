@@ -1,5 +1,4 @@
 package Cat;
-
 public class Cat {
     private double weight;
     private String name;
