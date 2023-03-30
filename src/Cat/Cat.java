@@ -1,5 +1,5 @@
 package Cat;
-public class Cat {
+public class Cat extends Animal {
     private double weight;
     private String name;
     private int age;
@@ -54,5 +54,11 @@ public class Cat {
         //сами вызываем свою функцию, если надо
         if (50 / weight > .01)
             pee();
+    }
+    public void sound() {
+        System.out.println("Meow");
+    }
+    public void sound() {
+        System.out.println("Meow");
     }
 }
