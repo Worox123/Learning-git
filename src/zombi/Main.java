@@ -5,7 +5,7 @@ public class Main {
 /*
 
 Make class Entity - the superclass for all entities
-Fix class Zobie and ...
+Fix class Zombie and ...
 
 */
 
